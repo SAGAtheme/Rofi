@@ -9,8 +9,8 @@ A dark theme for [Rofi](https://github.com/davatorium/rofi).
 2. ```wget https://raw.githubusercontent.com/SAGAtheme/Rofi/master/config.rasi``` </br>
 
 ## Notes
-- Inspiration from the work of [Siduck](https://github.com/siduck/). </br>
-
+- Inspiration from the work of [Siduck](https://github.com/siduck/). 
+- Default font is [SAGA](https://github.com/SAGAtheme/sagafont). </br>
 ## License
 
 [MIT License](./LICENSE)
