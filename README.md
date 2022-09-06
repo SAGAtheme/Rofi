@@ -6,7 +6,7 @@ A dark theme for [Rofi](https://github.com/davatorium/rofi).
 
 ## Installation
 1. ```git clone https://github.com/SAGAtheme/Rofi $XDG_CONFIG_HOME/rofi```
-2. ```execute launcher.sh to spawn the menu(s)``` </br>
+2. execute launcher.sh to spawn the menu(s) </br>
 
 ## Notes
 - Inspiration from the work of [Siduck](https://github.com/siduck/). 
